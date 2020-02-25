@@ -1,6 +1,6 @@
 # learn_cicd
 
-Learn CICD
+Learn CICD   [![CircleCI](https://circleci.com/gh/Sp4Rx/Learn-CICD.svg?style=svg)](https://circleci.com/gh/Sp4Rx/Learn-CICD)
 
 ## Getting Started
 
