@@ -1,6 +1,7 @@
 # learn_cicd
 
-Learn CICD   [![CircleCI](https://circleci.com/gh/Sp4Rx/Learn-CICD.svg?style=svg)](https://circleci.com/gh/Sp4Rx/Learn-CICD)
+Learn CICD   
+[![CircleCI](https://circleci.com/gh/Sp4Rx/Learn-CICD.svg?style=svg)](https://circleci.com/gh/Sp4Rx/Learn-CICD) ![Test, Build and Release apk](https://github.com/Sp4Rx/Learn-CICD/workflows/Test,%20Build%20and%20Release%20apk/badge.svg)
 
 ## Getting Started
 
